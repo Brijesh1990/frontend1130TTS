@@ -9,6 +9,19 @@ types of URL : a) absolute URL
                b) relative URL 
 
                     https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART
+
+world wide web  => www
+
+w3c : world wide web consortium
+      this is an oragnization i.e used to mange all about web
+      ex: html , css, html5 , css3 , js, jquery , psd, bootstrap etc
+
+       ex: 
+        <p></p>
+        <center></center>  => deprecated
+        <blink></blink>   
+
+
                     
 
 
